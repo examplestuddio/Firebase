@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">FirebaseEx</string>
+
+
+    <string name="hint_user_id">ID пользователя</string>
+    <string name="get_custom_token">Получите токен</string>
+    <string name="sign_in">Логин</string>
+    <string name="create_account">Создайте аккаунт</string>
+    <string name="sign_out">Выход</string>
+    <string name="verify_email">Проверка email</string>
+    <string name="disconnect">Дисконнект</string>
+    <string name="loading">Загрузка...</string>
+    <string name="custom_token">Кастомный токен</string>
+    <string name="signed_in">Залогинен</string>
+    <string name="signed_out">Разлогинен</string>
+    <string name="token_null">Токен: null</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Пароль</string>
+    <string name="desc_firebase_lockup">Firebase лого и имя</string>
+    <string name="auth_failed">Аутентификация не удалась</string>
+    <string name="start_phone_auth">Начало</string>
+    <string name="verify_phone_auth">Проверка</string>
+    <string name="resend_phone_auth">Направить снова</string>
+    <string name="hint_phone_number">Тел. номер</string>
+    <string name="hint_verification_code">Проверочный код</string>
+    <string name="status_code_sent">Код отправлен</string>
+    <string name="status_verification_failed">Проверка не удалась</string>
+    <string name="status_verification_succeeded">Проверка удалась</string>
+    <string name="status_sign_in_failed">Логин не удался</string>
+    <string name="instant_validation">(мгновенная проверка)</string>
+
+    <string name="firebase_status_fmt">Firebase пользователь: %s</string>
+    <string name="firebase_user_management">Польз. менеджмент Firebase</string>
+
+    <string name="google_status_fmt">Пользов. Гугл: %s</string>
+    <string name="google_title_text">Логин Гугл</string>
+
+    <string name="facebook_status_fmt">Пользов. Facebook: %s</string>
+    <string name="facebook_title_text">Логин Facebook</string>
+
+    <string name="emailpassword_status_fmt">Email пользователь: %1$s (проверен: %2$b)</string>
+    <string name="emailpassword_title_text">Email и пароль</string>
+
+    <string name="phone_title_text">Тел. номер</string>
+
+    <string name="twitter_status_fmt">Пользов. Twitter: %s</string>
+    <string name="twitter_title_text">Логин Twitter</string>
+
+    <string name="firebaseui_status_fmt">Пользов. Firebase: %s</string>
+    <string name="firebaseui_title_text">Аутентификация по FirebaseUI</string>
+
+    <string name="id_fmt">ID пользователя: %s</string>
+    <string name="email_fmt">Email: %s</string>
+</resources>
